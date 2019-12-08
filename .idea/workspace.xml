@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Summer2019VATestNGSeleniumProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/d4_basic_locators/review.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SFvhaGjAovdRNNDfYmTcfm1HH8" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/o1_intellij_shortcuts" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LAPTOP\IdeaProjects\Summer2019VATestNGSeleniumProject\src\test\java\com\cybertek\tests\o1_intellij_shortcuts" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cybertek.tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Redsox">
+    <configuration name="DropdownListNoSelectTagTest.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.d8_select_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.d8_select_list" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d8_select_list.DropdownListNoSelectTagTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redsox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.o3_pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.o3_pom" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.o3_pom.Redsox" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redsox.RedsoxMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.o3_pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.o3_pom" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.o3_pom.Redsox" />
+      <option name="METHOD_NAME" value="RedsoxMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redsox.redsox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.o3_pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.o3_pom" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.o3_pom.Redsox" />
+      <option name="METHOD_NAME" value="redsox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase3.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.AssigmentTestCase4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.AssigmentTestCase4" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.AssigmentTestCase4.TestCase3" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Redsox" />
+        <item itemvalue="TestNG.Redsox.RedsoxMethod" />
+        <item itemvalue="TestNG.TestCase3.test1" />
+        <item itemvalue="TestNG.Redsox.redsox" />
+        <item itemvalue="TestNG.DropdownListNoSelectTagTest.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="" />
+      <created>1571172277393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571172277393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/o2_locators/bookDetailsTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Summer2019VATestNGSeleniumProject$TestNGAssertionsTest.ic" NAME="TestNGAssertionsTest Coverage Results" MODIFIED="1573596570388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cybertek.tests.d6_testng.*</FILTER>
+    </SUITE>
+  </component>
+</project>
