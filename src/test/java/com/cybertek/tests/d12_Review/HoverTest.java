@@ -57,7 +57,7 @@ public class HoverTest {
         }
     }
 
-    @AfterMethod
+    @Test
     public void tearDownMethod() throws InterruptedException {
        // Thread.sleep(3000);
         driver.quit();
