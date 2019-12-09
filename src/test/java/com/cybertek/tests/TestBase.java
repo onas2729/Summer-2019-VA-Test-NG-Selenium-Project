@@ -10,10 +10,7 @@ import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.*;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -50,7 +47,16 @@ public class TestBase {
     }
 
     @BeforeMethod
-    public void setupMethod (){
+    @Parameters("env")
+    public void setupMethod (@Optional String env){
+        System.out.println("env = "+env);
+        //ENV IS null use default url,
+        // if env is not null, get the url based on env
+        if (env==null){
+            url=ConfigurationReader.get("url");
+        }else {
+            url=ConfigurationReader.get(env+"_url");
+        }
         driver= Driver.get();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
