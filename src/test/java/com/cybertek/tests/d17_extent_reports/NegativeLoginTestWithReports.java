@@ -29,13 +29,13 @@ public class NegativeLoginTestWithReports extends TestBase {
         extentLogger=report.createTest("Wrong username test");
         LoginPage loginPage = new LoginPage();
         extentLogger.info("Enter username");
-        loginPage.userName.sendKeys("salesmanager101");
+        loginPage.userName.sendKeys("salesmanager10");
         extentLogger.info("Enter Password");
-        loginPage.password.sendKeys("greatpassword");
+        loginPage.password.sendKeys("UserUser123");
         extentLogger.info("click submit");
         loginPage.submit.click();
         extentLogger.info("Verify page url");
-        Assert.assertEquals(driver.getCurrentUrl(), "https://google.com");
+        Assert.assertEquals(driver.getCurrentUrl(), "https://qa3.vytrack.com/user/login");
         extentLogger.pass("PASS: Wrong Username Test");
     }
 }

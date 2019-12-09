@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/wrongPasswordTest20191209032522.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/wrongUsernameTest20191209032530.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoke_test_runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/wrongPasswordTest20191209033247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/wrongPasswordTest20191209033400.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d12_Review/HoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d12_Review/HoverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d12_Review/HoverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d12_Review/HoverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/o3_pom/Redsox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/o3_pom/Redsox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d17_extent_reports/NegativeLoginTestWithReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d17_extent_reports/NegativeLoginTestWithReports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d17_extent_reports/NegativeLoginTestWithReports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d17_extent_reports/NegativeLoginTestWithReports.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_runner.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +75,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/testng_runner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/smoke_test_runner.xml">
+    <configuration name="C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/smoke_test_runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke_test_runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/testng_runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_runner.xml" />
@@ -96,6 +107,24 @@
       <option name="PACKAGE_NAME" value="com.cybertek.tests.d8_select_list" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d8_select_list.DropdownListNoSelectTagTest" />
       <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeLoginTestWithReports.wrongUsernameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.d17_extent_reports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.d17_extent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d17_extent_reports.NegativeLoginTestWithReports" />
+      <option name="METHOD_NAME" value="wrongUsernameTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -138,49 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Redsox.redsox" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.o3_pom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.o3_pom" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.o3_pom.Redsox" />
-      <option name="METHOD_NAME" value="redsox" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase3.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.AssigmentTestCase4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.AssigmentTestCase4" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.AssigmentTestCase4.TestCase3" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/smoke_test_runner.xml" />
         <item itemvalue="TestNG.C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/testng_runner.xml" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReports.wrongUsernameTest" />
         <item itemvalue="TestNG.DropdownListNoSelectTagTest.Test" />
         <item itemvalue="TestNG.Redsox.RedsoxMethod" />
-        <item itemvalue="TestNG.TestCase3.test1" />
-        <item itemvalue="TestNG.Redsox.redsox" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +188,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571172277393</updated>
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1575923296042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575923296042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
