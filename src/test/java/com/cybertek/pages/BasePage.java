@@ -18,11 +18,10 @@ public abstract class BasePage {
     protected WebElement loaderMask;
 
     @FindBy(css = "h1[class='oro-subtitle']")
-    protected WebElement pageSubTitle;
+    public WebElement pageSubTitle;
 
     @FindBy(css = "#user-menu > a")
-    protected WebElement userName;
-
+    public WebElement userName;
 
     @FindBy(linkText = "Logout")
     public WebElement logOutLink;
@@ -41,7 +40,7 @@ public abstract class BasePage {
     public String getPageSubTitle() {
         //ant time we are verifying page name, or page subtitle, loader mask appears
         waitUntilLoaderScreenDisappear();
-     //   BrowserUtils.waitForStaleElement(pageSubTitle);
+//        BrowserUtils.waitForStaleElement(pageSubTitle);
         return pageSubTitle.getText();
     }
 
@@ -56,8 +55,9 @@ public abstract class BasePage {
             WebDriverWait wait = new WebDriverWait(Driver.get(), 5);
             wait.until(ExpectedConditions.invisibilityOf(loaderMask));
         } catch (Exception e) {
-            System.out.println("Loader mask doesn't present.");
+            e.printStackTrace();
         }
+
     }
 
     public String getUserName(){
@@ -104,7 +104,7 @@ public abstract class BasePage {
             BrowserUtils.scrollToElement(Driver.get().findElement(By.xpath(moduleLocator)));
             Driver.get().findElement(By.xpath(moduleLocator)).click();
         } catch (Exception e) {
-            BrowserUtils.waitForStaleElement(Driver.get().findElement(By.xpath(moduleLocator)));
+//            BrowserUtils.waitForStaleElement(Driver.get().findElement(By.xpath(moduleLocator)));
             BrowserUtils.clickWithTimeOut(Driver.get().findElement(By.xpath(moduleLocator)),  5);
         }
     }

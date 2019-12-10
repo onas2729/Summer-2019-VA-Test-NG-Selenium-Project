@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Vytrack testusers.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d18_data_driven_testing/DDTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d18_data_driven_testing/DataDrivenTestsWithDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d18_data_driven_testing/ExcelUtilityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d18_data_driven_testing/ExcelUtilityDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,12 +84,12 @@
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d18_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d18_data_driven_testing.DDTTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DDTTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -106,12 +101,12 @@
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d18_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d18_data_driven_testing.DDTTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DDTTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -124,12 +119,12 @@
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d18_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d18_data_driven_testing.DataDrivenTestsWithDataProvider" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DataDrivenTestsWithDataProvider" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -142,12 +137,12 @@
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d18_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d18_data_driven_testing.ExcelUtilityDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.ExcelUtilityDemo" />
       <option name="METHOD_NAME" value="readExcelTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
