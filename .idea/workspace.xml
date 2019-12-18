@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Assigment/TestCase9To12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/AssigmentTestCase4/TestCase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/AssigmentTestCase4/TestCase5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/WindowHandlePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210063922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210063944.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210063955.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210064607.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210064629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test20191210064648.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/wrongPasswordTest20191212034828.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d19_data_driven_testing/DDTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d19_data_driven_testing/DDTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d19_data_driven_testing/DataDrivenTestsWithDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d19_data_driven_testing/DataDrivenTestsWithDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d1_basic_navigation/FirstClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d4_basic_locators/classLocatorNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d4_basic_locators/classLocatorNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/MultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d18_data_driven_testing/DDTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d18_data_driven_testing/DataDrivenTestsWithDataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d18_data_driven_testing/ExcelUtilityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d1_basic_navigation/FirstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d4_basic_locators/classLocatorNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d4_basic_locators/classLocatorNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d9_tabs_frames_alerts_popups/MultipleWindows.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d9_tabs_frames_alerts_popups/MultipleWindows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +76,12 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.cybertek.tests" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LAPTOP\IdeaProjects\Summer2019VATestNGSeleniumProject\src\test\Resources" />
       <recent name="C:\Users\LAPTOP\IdeaProjects\Summer2019VATestNGSeleniumProject\src\test\java\com\cybertek\tests\o1_intellij_shortcuts" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cybertek.tests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,45 +96,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DDTTest">
-    <configuration name="C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/smoke_test_runner_multiple_environments.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke_test_runner_multiple_environments.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DDTTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PopupAndAlerts.jsAlerts">
+    <configuration name="MultipleWindows.switchWindowsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DDTTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DDTTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DDTTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.MultipleWindows" />
+      <option name="METHOD_NAME" value="switchWindowsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,35 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataDrivenTestsWithDataProvider.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PopupAndAlerts.jsAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
+          <option name="PATTERN" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.DataDrivenTestsWithDataProvider" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelUtilityDemo.readExcelTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.d19_data_driven_testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.d18_data_driven_testing" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d19_data_driven_testing.ExcelUtilityDemo" />
-      <option name="METHOD_NAME" value="readExcelTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.PopupAndAlerts" />
+      <option name="METHOD_NAME" value="jsAlerts" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -168,13 +150,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase4.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.AssigmentTestCase4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.AssigmentTestCase4" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.AssigmentTestCase4.TestCase4" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase5.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.AssigmentTestCase4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.AssigmentTestCase4" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.AssigmentTestCase4.TestCase5" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandlePractice.WindowHandle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.d9_tabs_frames_alerts_popups.WindowHandlePractice" />
+      <option name="METHOD_NAME" value="WindowHandle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DDTTest" />
-        <item itemvalue="TestNG.DDTTest.test" />
-        <item itemvalue="TestNG.DataDrivenTestsWithDataProvider.test1" />
-        <item itemvalue="TestNG.ExcelUtilityDemo.readExcelTest" />
-        <item itemvalue="TestNG.C:/Users/LAPTOP/IdeaProjects/Summer2019VATestNGSeleniumProject/smoke_test_runner_multiple_environments.xml" />
+        <item itemvalue="TestNG.PopupAndAlerts.jsAlerts" />
+        <item itemvalue="TestNG.WindowHandlePractice.WindowHandle" />
+        <item itemvalue="TestNG.MultipleWindows.switchWindowsTest" />
+        <item itemvalue="TestNG.TestCase5.test1" />
+        <item itemvalue="TestNG.TestCase4.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -241,15 +277,13 @@
           <line>41</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/d9_tabs_frames_alerts_popups/PopupAndAlerts.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Summer2019VATestNGSeleniumProject$WindowHandlePractice_WindowHandle.ic" NAME="WindowHandlePractice.WindowHandle Coverage Results" MODIFIED="1576685381494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cybertek.tests.d9_tabs_frames_alerts_popups.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Summer2019VATestNGSeleniumProject$TestNGAssertionsTest.ic" NAME="TestNGAssertionsTest Coverage Results" MODIFIED="1573596570388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.cybertek.tests.d6_testng.*</FILTER>
     </SUITE>

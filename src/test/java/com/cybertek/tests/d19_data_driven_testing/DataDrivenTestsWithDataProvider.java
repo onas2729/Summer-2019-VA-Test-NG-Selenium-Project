@@ -11,7 +11,9 @@ public class DataDrivenTestsWithDataProvider {
                 {"Kung fury", "10"},
                 {"Titanic", "1"},
                 {"Interstellal", "2"},
-                {"I am legend", "10"}
+                {"I am legend", "10"},
+                {"Frozen", "10"},
+                {"Godfather", "9"},
         };
         return data;
 

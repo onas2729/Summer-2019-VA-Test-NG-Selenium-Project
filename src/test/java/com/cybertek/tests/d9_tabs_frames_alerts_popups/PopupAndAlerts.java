@@ -45,7 +45,7 @@ public class PopupAndAlerts {
         // accept alert
         Alert alert=driver.switchTo().alert();
         // accept alert ----> clicking ok alerts
-       Thread.sleep(2000);
+       Thread.sleep(4000);
         alert.accept();
 
         // trigger the second alert
@@ -53,7 +53,7 @@ public class PopupAndAlerts {
         //switch to new alert
         alert=driver.switchTo().alert();
         // dismiss ---> clicking x to close selecting no/cancel
-        Thread.sleep(2000);
+        Thread.sleep(4000);
         alert.dismiss();
 
         // trigger the second alert
@@ -61,7 +61,7 @@ public class PopupAndAlerts {
         //switch to new alert
         alert=driver.switchTo().alert();
         // sendkeys to alert
-        Thread.sleep(2000);
+        Thread.sleep(4000);
         alert.sendKeys("red alert");
         // print text of alert
         System.out.println(alert.getText());

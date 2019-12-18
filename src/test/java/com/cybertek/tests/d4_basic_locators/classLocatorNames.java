@@ -7,24 +7,30 @@ import org.openqa.selenium.WebElement;
 
 public class classLocatorNames {
     public static void main(String[] args) {
-        WebDriver driver= WebDriverFactory.getDriver("chrome");
-        driver.manage().window().maximize();
 
+        WebDriver driver = WebDriverFactory.getDriver("chrome");
+
+
+        driver.manage().window().maximize();
         driver.get("http://practice.cybertekschool.com/sign_up");
 
-        WebElement home=driver.findElement(By.className("nav-link"));
+        WebElement home = driver.findElement(By.className("nav-link"));
         home.click();
 
-        driver.get("https://practice.cybertekschool.com/multiple_buttons");
+        driver.get("http://practice.cybertekschool.com/multiple_buttons");
 
-        WebElement bitdefender=driver.findElement(By.id("proceedAnyway"));
-        bitdefender.click();
-        WebElement title=driver.findElement(By.className("h3"));
+        WebElement title = driver.findElement(By.className("h3"));
+
         System.out.println(title.getText());
 
-        WebElement button1=driver.findElement(By.className("btn btn-primary"));
-        System.out.println(button1.getText());
+        // NEXT LINE WILL FAIL. IT iS SUPPOSED TO FAIL
+        // if class has a space in it, we cannot use it
 
+        WebElement button1 = driver.findElement(By.xpath("(//button[@class='btn btn-primary'])[1]"));
+
+
+        System.out.println(button1.getText());
+        button1.click();
         driver.quit();
     }
 }
