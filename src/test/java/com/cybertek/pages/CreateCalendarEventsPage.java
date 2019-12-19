@@ -1,5 +1,6 @@
 package com.cybertek.pages;
 
+import com.cybertek.tests.d11_file_upload_actions_class.JavaScriptExecuterTest;
 import com.cybertek.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -7,6 +8,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
 public class CreateCalendarEventsPage extends BasePage {
+
+
 
     public CreateCalendarEventsPage(){
         PageFactory.initElements(Driver.get(), this);
@@ -49,6 +52,8 @@ public class CreateCalendarEventsPage extends BasePage {
     @FindBy(xpath = "(//input[@type='radio'])[5]")
     public WebElement by;
 
+    @FindBy(xpath="//input[@name='oro_calendar_event_form[allDay]']")
+    public WebElement AllDayEvent;
 
     public Select repeatOptionsList(){
         return new Select(repeatOptions);
