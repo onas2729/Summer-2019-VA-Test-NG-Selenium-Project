@@ -48,8 +48,7 @@ Second, division is subtracting (cikartma) a number from the other as long as it
         System.out.println("Bahattin Guler");
         System.out.println("Bahattin Guler");
         System.out.println("Bahattin Guler");
-        System.out.println("Bahattin Guler");
-        System.out.println("Bahattin Guler");
+
 
 
 
