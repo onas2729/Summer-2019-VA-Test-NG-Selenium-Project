@@ -20,8 +20,8 @@ public class d2_review {
         System.out.println("url = "+url);
 
         // getPageSource();
-        String pageSorce=driver.getPageSource();
-        System.out.println("pageSource = "+pageSorce);
+        String pageSource=driver.getPageSource();
+        System.out.println("pageSource = "+pageSource);
 
 
 

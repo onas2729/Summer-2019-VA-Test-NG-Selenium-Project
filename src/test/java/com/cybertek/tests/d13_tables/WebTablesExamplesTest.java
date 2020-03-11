@@ -108,8 +108,21 @@ public class WebTablesExamplesTest {
 
     @Test
     public void getSingleCellTest(){
+/**
+ iki turlu xpath yazilabilir tablo icin
+ 1.yol "(//table/tbody/tr[1]/td[4])[1]"
+ 2.yol "//table[@id='table1']/tbody/tr[1]/td[4]"
 
-        WebElement singleCell=driver.findElement(By.xpath("//table[@id='table1']/tbody/tr[1]/td[4]"));
+ herhangi bir elementin parentini bulabilmek icin tagname yazildiktan sonra
+ "/.." yazilirsa parentlari gorebiliyoruz
+
+ tablonun son satirindan bir onceki satiri ve
+ son sutunundan bir onceki sutunu bulmak icin ne yapariz?
+ cevap ---> "(//table/tbody/tr[last()-1]/td[last()-1])[1]"
+
+ */
+
+        WebElement singleCell=driver.findElement(By.xpath("(//table/tbody/tr[last()-1]/td[last()-1])[1]"));
         System.out.println(singleCell.getText());
 
     }
