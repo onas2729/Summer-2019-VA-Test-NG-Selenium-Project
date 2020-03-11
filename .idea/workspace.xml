@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -168,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Divide_without_operator" />
         <item itemvalue="TestNG.WebTablesExamplesTest.printAllCellByIndex" />
+        <item itemvalue="TestNG.MultipleWindows.changeByTitle" />
         <item itemvalue="TestNG.JavaScriptExecuterTest.type" />
         <item itemvalue="TestNG.JavaScriptExecuterTest.click" />
-        <item itemvalue="TestNG.MultipleWindows.changeByTitle" />
+        <item itemvalue="Application.Divide_without_operator" />
       </list>
     </recent_temporary>
   </component>
