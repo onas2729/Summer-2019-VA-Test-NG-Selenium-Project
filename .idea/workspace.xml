@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="some added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/Divide_without_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/DivisibleBy3_5_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FINRA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FindMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FindMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FindUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FrequencyCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/FrequencyCharacterLongWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/Numbers_Odd_or_Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/ReversingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/SameLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/SortAscending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/SortDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/JavaInterviewQuestion/SwapNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/selfStudies/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/selfStudies/Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/selfStudies/d2_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/selfStudies/d2_review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d13_tables/WebTablesExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d13_tables/WebTablesExamplesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d2_webdriver_basics/CallTheFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d2_webdriver_basics/CallTheFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Summer2019VATestNGSeleniumProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/selfStudies/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/selfStudies/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/selfStudies/d2_review.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/selfStudies/d2_review.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d13_tables/WebTablesExamplesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d13_tables/WebTablesExamplesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d2_webdriver_basics/CallTheFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/d2_webdriver_basics/CallTheFactory.class" afterDir="false" />
-    </list>
+    <list default="true" id="c3080153-636f-42ec-a101-b7bab630f8b5" name="Default Changelist" comment="some added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
