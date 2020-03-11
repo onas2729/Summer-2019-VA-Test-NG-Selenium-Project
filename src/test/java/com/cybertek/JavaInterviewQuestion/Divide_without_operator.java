@@ -42,6 +42,7 @@ Second, division is subtracting (cikartma) a number from the other as long as it
 
         Division(10, 5);
         System.out.println("Bahattin Guler");
+        System.out.println("Ekrem Guler");
 
     }
 }
