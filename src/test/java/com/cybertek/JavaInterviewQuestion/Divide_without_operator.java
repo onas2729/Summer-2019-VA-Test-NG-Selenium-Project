@@ -39,6 +39,8 @@ Second, division is subtracting (cikartma) a number from the other as long as it
     }
 
     public static void main(String[] args) {
-        Division(9,0);
+
+        Division(10, 5);
+        System.out.println("Ekrem Guler");
     }
 }
